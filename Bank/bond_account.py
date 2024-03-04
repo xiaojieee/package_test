@@ -1,5 +1,5 @@
-from bank.account import Account
-from maximum_balance_breached_exception import MaximumBalanceBreachedException
+from Bank.account import Account
+from Bank.maximum_balance_breached_exception import MaximumBalanceBreachedException
 
 
 class BondAccount(Account):

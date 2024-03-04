@@ -1,4 +1,4 @@
- class MaximumBalanceBreachedException(Exception):
+class MaximumBalanceBreachedException(Exception):
 
     def __init__(self, breach_amount):
         self.breach_amount = breach_amount

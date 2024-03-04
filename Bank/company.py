@@ -1,4 +1,4 @@
-from person import Employee
+from Bank.employee import Employee
 
 
 class Company(Employee):

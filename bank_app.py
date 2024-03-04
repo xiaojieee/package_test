@@ -1,4 +1,5 @@
-from bank.account import Account
+from Bank.account import Account
+
 
 
 # with @classmethod no instance of the Account class needs to be made before setting a bank name

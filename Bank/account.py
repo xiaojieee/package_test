@@ -1,4 +1,4 @@
-from person import Customer
+from Bank.customer import Customer
 
 
 class Account(Customer):

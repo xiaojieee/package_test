@@ -1,4 +1,4 @@
-from bank.account import Account
+from Bank.account import Account
 
 from minimum_balance_breached_exception import MinimumBalanceBreachedException
 
